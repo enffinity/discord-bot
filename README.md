@@ -1,4 +1,5 @@
 # discord-bot
+[![Visits Badge](https://badges.pufler.dev/visits/enffinity/discord-bot)](https://badges.pufler.dev) <br>
 An Open-Source Discord bot for you to use.
 
 > # 💾 Installation
