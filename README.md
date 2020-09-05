@@ -1,7 +1,7 @@
 # discord-bot
 [![Visits Badge](https://badges.pufler.dev/visits/enffinity/discord-bot)](https://badges.pufler.dev) 
 [![Updated Badge](https://badges.pufler.dev/updated/enffinity/discord-bot)](https://badges.pufler.dev) 
-![License Badge(https://img.shields.io/github/license/enffinity/discord-bot)]<br>
+![License Badge](https://img.shields.io/github/license/enffinity/discord-bot)<br>
 An Open-Source Discord bot for you to use.
 
 > # 💾 Installation
